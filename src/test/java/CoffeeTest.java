@@ -32,6 +32,7 @@ public class CoffeeTest {
 
     }
 
+
     @Test
     public void testCoffeeGetters() {
         assertEquals(actualCoffee.getName(), "The Bean-inator");
