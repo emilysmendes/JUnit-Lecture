@@ -11,6 +11,7 @@ public class Coffee {
         this.price = price;
     }
 
+
     public String getName() {
         return this.name;
     }
@@ -31,9 +32,11 @@ public class Coffee {
         this.roast = roast;
     }
 
+
     public void setPrice(double price) {
         this.price = price;
     }
+
 
 
 }
